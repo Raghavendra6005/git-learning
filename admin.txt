@@ -1,15 +1,17 @@
 add and remove users
 change things
 manage database
+
 closing connetion with overwrite
 jdbcbas
 njsncjasc
 nklcnas
 
 
-all is well
-chenge1
 
 
-change1
-change2
+closing connetion
+just typing randomly beacuse i not getting anything to do
+change-1
+change-2
+
